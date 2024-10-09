@@ -1,0 +1,26 @@
+@charset "UTF-8"
+
+body{
+    background-color: rgb(247, 230, 102);
+}
+main{
+    background-color:white ;
+    width: 650px;
+    padding: 30px;
+    margin: auto;
+    border-radius: 15px;
+}
+img{
+    border-radius: 15px;
+    
+}
+#u{
+    background-color: hsl(330, 100%, 98%);
+    border-radius: 15px;
+}
+#h{
+    color: hsl(332, 51%, 32%);
+}
+h2{
+    color:  hsl(14, 45%, 36%);
+}
